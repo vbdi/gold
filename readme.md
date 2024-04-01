@@ -1,4 +1,4 @@
-# [NAACL 2024] GOLD: Generalized Knowledge Distillation via Out-of-Distribution-Guided Language Data Generation 
+# [[NAACL 2024] GOLD: Generalized Knowledge Distillation via Out-of-Distribution-Guided Language Data Generation](https://arxiv.org/pdf/2403.19754.pdf)
 
 
 <p align="center">
