@@ -6,6 +6,8 @@
 <img src="figures/Fig1.png?raw=true" alt="alt text" width="440" height="204">
 </p> 
 
+GOLD is a task-agnostic data generation and knowledge distillation framework, which employs an iterative out-of-distribution-guided feedback mechanism for the LLM. As a result, the generated data improves the generalizability of distilled models. An energy-based OOD evaluation approach is also introduced to deal with noisy generated data. Our extensive experiments on 10 different classification and sequence-to-sequence tasks in NLP show that GOLD respectively outperforms prior arts and the LLM with an average improvement of 5% and 14%. 
+
 ## Install dependencies:
 ```conda env create -f environment.yml```
 
