@@ -1,5 +1,6 @@
 # [[NAACL 2024] GOLD: Generalized Knowledge Distillation via Out-of-Distribution-Guided Language Data Generation](https://arxiv.org/pdf/2403.19754.pdf)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gold-generalized-knowledge-distillation-via/data-free-knowledge-distillation-on-squad)](https://paperswithcode.com/sota/data-free-knowledge-distillation-on-squad?p=gold-generalized-knowledge-distillation-via)
 
 <p align="center">
 <img src="figures/Fig1.png?raw=true" alt="alt text" width="440" height="204">
