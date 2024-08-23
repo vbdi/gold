@@ -19,3 +19,12 @@ python T5_glue.py --scenario0 --num_batches 375 --data_dir generated_data/rte_ou
 ```
 python T5_squad.py --scenario1 --data_dir generated_data/svamp/ --num_batches 375 --epochs 1 --fb val_ac --dataset svamp  
 ```
+## Cite
+```
+@inproceedings{gholami-etal-2024-gold,
+    title = "{GOLD}: Generalized Knowledge Distillation via Out-of-Distribution-Guided Language Data Generation",
+    author = "Gholami, Mohsen  and Akbari, Mohammad  and Hu, Tianxi  and Masrani, Vaden  and Wang, Z.  and Zhang, Yong",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2024",
+    year = "2024",
+}
+```
