@@ -2,6 +2,10 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gold-generalized-knowledge-distillation-via/data-free-knowledge-distillation-on-squad)](https://paperswithcode.com/sota/data-free-knowledge-distillation-on-squad?p=gold-generalized-knowledge-distillation-via)
 
+Link to arXiv paper: [https://arxiv.org/abs/2412.17874](https://arxiv.org/abs/2403.19754)
+
+Link to Huawei's AI Gallery Notebook: [https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=58b799a0-5cfc-4c2e-8b9b-440bb2315264](https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=9d770d1f-3758-4d0f-99d4-3346abbe1546)
+
 <p align="center">
 <img src="figures/Fig1.png?raw=true" alt="alt text" width="440" height="204">
 </p> 
